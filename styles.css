@@ -155,4 +155,9 @@ img.circle-thumb-small {
 	background-color: #071629;
 }
 
+/** Task 6 - styles **/
+
+.social > svg {
+  fill: white;
+}
 
