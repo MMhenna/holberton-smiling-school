@@ -40,13 +40,13 @@ Create an account in Figma and open these files:
 - [Pricing - fig file](https://www.figma.com/file/KLAI53jdYpfFNEy0O79ymB/Pricing)
 - [Courses - fig file](https://www.figma.com/file/ivg3abH1HLmMayBgjGg1Qf/Courses)
 
-And Duplicate to your Drafts to have access to all design details.
+And Duplicate to your Drafts to have access to all design details.
 
 Important notes with Figma:
 
 - if your computer doesnt have missing fonts, you can find them here: source-sans-pro and Spin-Cycle-OT
 - some values are in float - feel free to round them
-- Be pixel perfect - yes! but mainly make sure colors, size and position are correct. #C271FF is not purple.
+- Be pixel perfect - yes! but mainly make sure colors, size and position are correct. #C271FF is not purple.
 
 For this task, please write an amazing README.md
 
